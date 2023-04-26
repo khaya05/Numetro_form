@@ -1,0 +1,15 @@
+:root {
+  --blue: #032759;
+  --blue-hover: #123d79;
+  --gray: #C1C2C8;
+  --light-blue: #EEF5FF
+}
+
+*, *::before, *::after {
+  margin: 0;padding: 0;
+  box-sizing: border-box;
+}
+
+* {
+  font-family: 'Manrope', sans-serif;
+}
